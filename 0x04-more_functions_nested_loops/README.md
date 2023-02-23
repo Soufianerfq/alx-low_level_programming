@@ -6,3 +6,5 @@
 5: Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 6: Write a function that draws a straight line in the terminal.
 7. I feel like I am diagonally parked in a parallel universe
+8. You are so much sunshine in every square inch
+
